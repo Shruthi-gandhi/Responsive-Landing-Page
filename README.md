@@ -19,10 +19,6 @@ This is a simple and clean responsive landing page created using HTML and CSS. I
 2. Open `index.html` with Live Server in VS Code.
 3. Resize your browser to test responsiveness.
 
-## Screenshots
-
-![screenshot](preview.png) <!-- Optional if you want to add a visual -->
-
 ## Submission
 
 Submit your GitHub link as per the internship instructions.
